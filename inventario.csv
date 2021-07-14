@@ -1,0 +1,851 @@
+Id,Nome,Descriçao,Quantidade,Localização Casa,Foto,Tem Interesse
+1,cadeira,cadeira de ferro branca,6,varanda externa - frente da casa,NA,NA
+2,mesa,mesa de ferro branca,1,varanda externa - frente da casa,NA,NA
+3,banco,banco de ferro branco,1,varanda externa - frente da casa,NA,NA
+4,lustre retro,lustres,3,varanda externa - frente da casa,NA,NA
+5,carpete,carpete de limpar os pés,1,varanda externa - frente da casa,NA,NA
+6,lustres,lustres de vidro com listra,9,sala de visita e sala jantar,NA,NA
+7,quadro,quadro guillame,1,sala de visita,NA,NA
+8,canape,canape madeira com colchonete e 6 almofadas de veludo,1,sala de visita,NA,NA
+9,decantador vinho,decantador de vinho madeira e prata,1,sala de visita,NA,NA
+10,conjunto de prata,itens de prata com bandeja,6,sala de visita,NA,NA
+11,quadro,quadro flor konstanin,1,sala de visita,NA,NA
+12,porta retrato,porta retratos,10,sala de visita,NA,NA
+13,arca,arca de maneira,1,sala de visita,NA,NA
+14,quadro,quadro flor rosa,1,sala de visita,NA,NA
+15,quadro,quadro flor azul,1,sala de visita,NA,NA
+16,sofá,sofá 2 pessoas rosa (costa para jardim inverno),1,sala de visita,NA,NA
+17,sofá,sofá 3 pessoas rosa,1,sala de visita,NA,NA
+18,sofá,sofá 2 pessoas rosa (costas varanda alpendre),1,sala de visita,NA,NA
+19,vaso,vaso azul vidro,1,sala de visita,NA,NA
+20,cinzeiro,cinzeiro azul vidro,1,sala de visita,NA,NA
+21,estatueta,estatueta bebedo porcelana,1,sala de visita,NA,NA
+22,abajur,abajur,2,sala de visita,NA,NA
+23,pote,pote porcelana,1,sala de visita,NA,NA
+24,santa,santa com manto claro madeira,1,sala de visita,NA,NA
+25,cinzeiro,cinzeiro de vidro,1,sala de visita,NA,NA
+26,pote,pote de vidro,1,sala de visita,NA,NA
+27,pote,pote de vidro,1,sala de visita,NA,NA
+28,pote,pote de vidro,1,sala de visita,NA,NA
+29,pote,pote de vidro,1,sala de visita,NA,NA
+30,pote,pote de vidro com tampa,1,sala de visita,NA,NA
+31,jarra,jarra de vidro,1,sala de visita,NA,NA
+32,mesa,mesa de centro marmore grande,1,sala de visita,NA,NA
+33,tapete,tapete,1,sala de visita,NA,NA
+34,poltrona,poltrona individual de tecido,2,sala de visita,NA,NA
+35,banco,banco de madeira couro,2,sala de visita,NA,NA
+36,tapete,tapete vermelho menor,1,sala de visita,NA,NA
+37,tapete,tapete fofo cinza,1,sala de visita,NA,NA
+38,sofá,sofá 3 pessoas vermelho (meio da sala),1,sala de visita,NA,NA
+39,sofá,sofá 3 pessoas vermelho (costas para varanda alpendre),1,sala de visita,NA,NA
+40,bandeja prata,bandejinhas de prata rendondas,3,sala de visita,NA,NA
+41,jarra,jarra de prata com bandeija,1,sala de visita,NA,NA
+42,castiçal,castiçal,2,sala de visita,NA,NA
+43,caixa prata,caixinha de prata com veludo dentro,1,sala de visita,NA,NA
+44,vasilha prata,vasilha redonda de prata,1,sala de visita,NA,NA
+45,cisnei prata,cisnei prata,1,sala de visita,NA,NA
+46,cinzeiro,cinzeiro prata,1,sala de visita,NA,NA
+47,objeto prata,pote prata com tampa,1,sala de visita,NA,NA
+48,jarro,jarro com tampa e bandeja prata,1,sala de visita,NA,NA
+49,mesa,mesa quadrada marmore grande,1,sala de visita,NA,NA
+50,mesa,mesa redonda marmore pequena,1,sala de visita,NA,NA
+51,estatueta,dois trabalhadores,1,sala de visita,NA,NA
+52,caixa objeto,caixa madriperola,1,sala de visita,NA,NA
+53,caixa objeto,caixa madeira,1,sala de visita,NA,NA
+54,objeto prata,objeto prata com tampa,1,sala de visita,NA,NA
+55,mesa,mesa quadrada marmore pequena,1,sala de visita,NA,NA
+56,biblia,biblia sagrada ilustrada,1,sala de visita,NA,NA
+57,livro,india,1,sala de visita,NA,NA
+58,livro,100 maravilhas,1,sala de visita,NA,NA
+59,almofada,8 cetim e 3 veludo,11,sala de visita,NA,NA
+60,quadro,quadro cavalo branco,1,escritório,NA,NA
+61,quadro,quadro caroça,1,escritório,NA,NA
+62,quadro,quadro renacentista,1,escritório,NA,NA
+63,quadro,diploma vovô,1,escritório,NA,NA
+64,quadro,quadro mesa com garrafas,1,escritório,NA,NA
+65,quadro,quadro sobrenome lois,1,escritório,NA,NA
+66,relógio,relógio parede madeira,1,escritório,NA,NA
+67,quadro,pintura vovó,1,escritório,NA,NA
+68,lustre,lustre,1,escritório,NA,NA
+69,poltrona,poltronas couro,2,escritório,NA,NA
+70,tapete,tapete pequeno,1,escritório,NA,NA
+71,lixeira,lixeira quadrada inox,1,escritório,NA,NA
+72,cadeira,cadeira de mesa couro claro,1,escritório,NA,NA
+73,telefone,telefone sem fio panasonic,1,escritório,NA,NA
+74,porta caneta,porta caneta madeira,2,escritório,NA,NA
+75,estátua,estátua dom quixotee sancho madeira,2,escritório,NA,NA
+76,pasta escritório,pastas escritório em couro e carimbo,3,escritório,NA,NA
+77,objeto,tartaruga sino,1,escritório,NA,NA
+78,peso de mesa,peso de mesa caveira,1,escritório,NA,NA
+79,cinzeiro,cinzeiro,1,escritório,NA,NA
+80,porta retrato,porta retrato,1,escritório,NA,NA
+81,cinzeiro,cinzeiro com busto,1,escritório,NA,NA
+82,abridor de carta,abridores de carta em materiais diversos,4,escritório,NA,NA
+83,mesa,mesa madeira (gavetas trancadas),1,escritório,NA,NA
+84,livro coleção,coleção machado de assis,1,escritório,NA,NA
+85,livro coleção,coleção jorge amado,1,escritório,NA,NA
+86,livro coleção,coleção júlio verne,1,escritório,NA,NA
+87,livro coleção,colção malba tahan,1,escritório,NA,NA
+88,livro,livros diversos,1,escritório,NA,NA
+89,apoiador de livro,apoiador de livro cara,2,escritório,NA,NA
+90,objeto,objeto dourado,2,escritório,NA,NA
+91,objeto,aguia,1,escritório,NA,NA
+92,objeto,galo,1,escritório,NA,NA
+93,relógio,relógio de mesa marmore,1,escritório,NA,NA
+94,apoiador de livro,apoiador de livro esfinge,1,escritório,NA,NA
+95,relógio,relógio de mesa paris,1,escritório,NA,NA
+96,jarra,jarra azul,1,banheiro social,NA,NA
+97,objeto prata,pote com tampa e bandeja,1,banheiro social,NA,NA
+98,objeto,conjunto de vidro 3 peças,3,banheiro social,NA,NA
+99,porta guardachuva,porta guardachuva e 4 sombrinhas e 2 bengalas,1,banheiro social,NA,NA
+100,lustre,lustre,1,banheiro social,NA,NA
+101,espelho,espelho retangular,1,banheiro social,NA,NA
+102,estátua,estátua veados,1,jardim de inverno,NA,NA
+103,piano,piano e banco,1,jardim de inverno,NA,NA
+104,banqueta,banquetas couro,2,jardim de inverno,NA,NA
+105,cachepo,cachepos metal,2,jardim de inverno,NA,NA
+106,sofá,sofá bambu 3 pessoas (costas para sala visita),1,jardim de inverno,NA,NA
+107,sofá,sofá bambu 3 pessoas (costas para parede jardim inverno),1,jardim de inverno,NA,NA
+108,sofá,sofás bambu 1 pessoa (costas para parede jardim inverno),2,jardim de inverno,NA,NA
+109,mesa,mesa centro retangular baixa bambu e vidro,1,jardim de inverno,NA,NA
+110,mesa,mesa quadrada pequena bambu e vidro,1,jardim de inverno,NA,NA
+111,mesa,mesa redonda bambu e vidro 4 lugares e 4 cadeiras,1,jardim de inverno,NA,NA
+112,cachepo,cachepo cipo,1,jardim de inverno,NA,NA
+113,caixa som,caixas de som,2,jardim de inverno,NA,NA
+114,ventilador,ventilador,1,jardim de inverno,NA,NA
+115,cinzeiro,cinzeiro prateado,1,jardim de inverno,NA,NA
+116,cinzeiro,cinzeiro ferro,1,jardim de inverno,NA,NA
+117,tapeçaria,quadro tapete,1,sala de jantar,NA,NA
+118,bandeja e cachepo,bandeja e cachepo cobre,1,sala de jantar,NA,NA
+119,arca,arca de maneira,1,sala de jantar,NA,NA
+120,cadeira,cadeira escritório vovo,1,sala de jantar,NA,NA
+121,relógio torre RICARDO,relógio torre,1,sala de jantar,NA,NA
+122,ventiladores,ventiladores de inox,2,sala de jantar,NA,NA
+123,carrinho buffet,carrinho buffet,1,sala de jantar,NA,NA
+124,decanter vinho,decantar vinho vidro e ferro,1,sala de jantar,NA,NA
+125,pote,pote porcelana azul com bandeja,1,sala de jantar,NA,NA
+126,boleira de vidro,boleira de vidro,1,sala de jantar,NA,NA
+127,candelabro,candelabros ferro com tapetinhos,2,sala de jantar,NA,NA
+128,aparador,aparadores de maneira,2,sala de jantar,NA,NA
+129,sopeira,sopeira de prata com bandeja,1,sala de jantar,NA,NA
+130,escultura,escultura santa ceia madeira,1,sala de jantar,NA,NA
+131,buffet,buffet de mandeira,1,sala de jantar,NA,NA
+132,mesa,mesa jantar,1,sala de jantar,NA,NA
+133,cadeiras,cadeiras couro,10,sala de jantar,NA,NA
+134,quadro,quadro flor,1,sala de jantar,NA,NA
+135,quadro,quadro,1,sala de jantar,NA,NA
+136,jogo são luis,copos e taças de cristal frances,1,sala de jantar,NA,NA
+137,faqueiro,faqueiro de prata,1,sala de jantar,NA,NA
+138,pote,pote porcelana de geleia,1,sala de jantar,NA,NA
+139,faqueiro,faqueiro inox,1,sala de jantar,NA,NA
+140,biscoteira,pote de vidro grande tampa vidro,1,sala de jantar,NA,NA
+141,bombonieri,pote de vidro pequeno tampa vidro,1,sala de jantar,NA,NA
+142,biscoteira,pote de biscoito de plastico tampa encaixe,1,sala de jantar,NA,NA
+143,biscoteira,pode de biscoito de plastico tampa rosca,1,sala de jantar,NA,NA
+144,açucareiro,açucareiro de prata com colher prata,1,sala de jantar,NA,NA
+145,biscoteira,pote de biscoito de vidro grande tampa ferro,1,sala de jantar,NA,NA
+146,bombonieri,bombonieri porcelana rosas vó odete,1,sala de jantar,NA,NA
+147,lata,lata quadrade azul e amarelo grande,2,sala de jantar,NA,NA
+148,tabuleiro,tabuleiro com tampa de plástico,1,sala de jantar,NA,NA
+149,lata,lata quadrada grande vermelho,1,sala de jantar,NA,NA
+150,escovinha,escovinha de mesa,1,sala de jantar,NA,NA
+151,toalha de mesa,toalha de mesa redonda,1,sala de jantar,NA,NA
+152,forro de mesa,forro de mesa redonda,1,sala de jantar,NA,NA
+153,tolha,toalha de mesa de jantar com frutas,1,sala de jantar,NA,NA
+154,forro de mesa,forro de mesa de jantar,1,sala de jantar,NA,NA
+155,biscoteira,biscoteira plastico com tampa fixa,1,sala de jantar,NA,NA
+156,biscoteira,biscoteira vidro tampa rosca prateada,1,sala de jantar,NA,NA
+157,espelho,espelho redondo,1,sala de televisão,NA,NA
+158,aparador,aparador de mesa,1,sala de televisão,NA,NA
+159,pote,pote porcelana estampa azul,1,sala de televisão,NA,NA
+160,cachepo,cachepo porcelana branco,1,sala de televisão,NA,NA
+161,quadro,quadro flor azul konstantine,1,sala de televisão,NA,NA
+162,prato,prato redondo grande,1,sala de televisão,NA,NA
+163,prato,prato redondo pequeno com pedras azuis,1,sala de televisão,NA,NA
+164,quadro,quadro anthurium konstantine,1,sala de televisão,NA,NA
+165,prato,prato redondo cobre pequeno,1,sala de televisão,NA,NA
+166,prato,prato redondo grande inca,1,sala de televisão,NA,NA
+167,quadro,quadro girassois,1,sala de televisão,NA,NA
+168,quadro,quadro arvores nicia guariani,1,sala de televisão,NA,NA
+169,quadro,quadro igreja,1,sala de televisão,NA,NA
+170,quadro,quadro flores no fundo do mar bax,1,sala de televisão,NA,NA
+171,quadro,quadro barcos,1,sala de televisão,NA,NA
+172,quadro,quadro profetas,1,sala de televisão,NA,NA
+173,quadro,qudro mexicano passarinho,1,sala de televisão,NA,NA
+174,quadro,quadro igrejas,1,sala de televisão,NA,NA
+175,quadro,quadro barcos,1,sala de televisão,NA,NA
+176,quadro,quadro petipoa arvore,1,sala de televisão,NA,NA
+177,porta revista,reveiteiro madeira,1,sala de televisão,NA,NA
+178,porta retrato,porta retratos,1,sala de televisão,NA,NA
+179,capelinha,capelinha,1,sala de televisão,NA,NA
+180,televisão,televisão samsung smart,1,sala de televisão,NA,NA
+181,fruta,frutas cerâmica,1,sala de televisão,NA,NA
+182,jarra,jarra bronze,1,sala de televisão,NA,NA
+183,socador,socador de alho bronze,1,sala de televisão,NA,NA
+184,caixa,caixa cortiça,1,sala de televisão,NA,NA
+185,cinzeiro,cinzeiro metal borda coração,1,sala de televisão,NA,NA
+186,pote,pote bronze pequeno com tampa,1,sala de televisão,NA,NA
+187,pote,pote bronze fundo vermelho estampado,1,sala de televisão,NA,NA
+188,pote,pote bronze fundo vermelho e verde estampado,1,sala de televisão,NA,NA
+189,abajur,abajur,1,sala de televisão,NA,NA
+190,caneca,caneca bronze,1,sala de televisão,NA,NA
+191,boneca,boneca porcelana,1,sala de televisão,NA,NA
+192,mesa,mesa quadrada madeira do telefone,1,sala de televisão,NA,NA
+193,mesa,mesa quadrada madeira porta de vidro,1,sala de televisão,NA,NA
+194,armário,armário sala de televisão,1,sala de televisão,NA,NA
+195,cinzeiro,cinzeiro metal,1,sala de televisão,NA,NA
+196,telefone,telefone sem fio panasonic,1,sala de televisão,NA,NA
+197,cachepo,cachepo prata,1,sala de televisão,NA,NA
+198,ventilador,ventilador,1,sala de televisão,NA,NA
+199,sofá,sofá 2 pessoas couro branco,1,sala de televisão,NA,NA
+200,sofá,sofá 1 pessoa couro branco,1,sala de televisão,NA,NA
+201,porta copo,12 porta copos de madeira,12,sala de televisão,NA,NA
+202,abridor de garrafa,2 abridores e 1 saca rolha,3,sala de televisão,NA,NA
+203,dosador,dosador de bebida,1,sala de televisão,NA,NA
+204,rolha,rolha de vinho,1,sala de televisão,NA,NA
+205,bombonieri,bombonieri porcelana florido,1,sala de televisão,NA,NA
+206,queijeira,queijeira de mandeira com com tampa,1,sala de televisão,NA,NA
+207,pote,pote de madeira abacaxi,2,sala de televisão,NA,NA
+208,pote,pote de porcelana desenho uva na cestinha,2,sala de televisão,NA,NA
+209,balde de gelo,porta gelo de cortiça com tampa,1,sala de televisão,NA,NA
+210,aquário,aquário de vidro,1,sala de televisão,NA,NA
+211,balde de gelo,balde para gelo vidro com pegador,1,sala de televisão,NA,NA
+212,prato,prato de plático desenho chinês,1,sala de televisão,NA,NA
+213,pote,pote de madeira redondo,2,sala de televisão,NA,NA
+214,cesta,cesta,1,sala de televisão,NA,NA
+215,tapewear,conjunto 4 tapewear de plastico,4,sala de televisão,NA,NA
+216,tapewear,conjunto 3 tapewear de plastico,3,sala de televisão,NA,NA
+217,prato,pratinho preto com desenho de bambu,1,sala de televisão,NA,NA
+218,pote,pote de vidro pequeno,1,sala de televisão,NA,NA
+219,lata,lata retangular grande lecterc,1,sala de televisão,NA,NA
+220,lata,lata retangular média leão,1,sala de televisão,NA,NA
+221,lata,lata redonda rose,1,sala de televisão,NA,NA
+222,dvd,coleção dvd,1,sala de televisão,NA,NA
+223,lata,lata redonda grande preta com flores,1,sala de televisão,NA,NA
+224,lata,lata quadrada pequena azul marinho flores,1,sala de televisão,NA,NA
+225,lata,lata pequena torre eiffel,1,sala de televisão,NA,NA
+226,lata,lata redonda grande verde janelas,1,sala de televisão,NA,NA
+227,vasilha barro,vasinha de barro gigante,1,sala de televisão,NA,NA
+228,bandeja,bandeja termica sem o fio,1,sala de televisão,NA,NA
+229,copinho,copo de cristal aperitivo borda aberta,8,sala de televisão,NA,NA
+230,copinho,copo de vidro colorido,6,sala de televisão,NA,NA
+231,copinho,copo de vidro gordinho baixo,5,sala de televisão,NA,NA
+232,pote,pote redondo perola,1,sala de televisão,NA,NA
+233,pote,potes de vidro colorido pequeno,4,sala de televisão,NA,NA
+234,pote,pote porcelana com desenho chinês,1,sala de televisão,NA,NA
+235,pote,pote acrílico com tampa,1,sala de televisão,NA,NA
+236,porta copo,porta copo de vidro,4,sala de televisão,NA,NA
+237,bombonieri,bombonieri porcela com tampa,1,sala de televisão,NA,NA
+238,pote,pote pequeno de vidro com rosca,1,sala de televisão,NA,NA
+239,pote,pote porcela antigo,1,sala de televisão,NA,NA
+240,porta copo,porta copo metal colorido,3,sala de televisão,NA,NA
+241,pratinho,3 pratinhos e 1 prato pintado com bonecas,4,sala de televisão,NA,NA
+242,rolhas,rolhas com detalhe na tampa,4,sala de televisão,NA,NA
+243,porta copo,porta copo cortilha e metal,6,sala de televisão,NA,NA
+244,copo,2 copos de vidro para drink,2,sala de televisão,NA,NA
+245,pote,pote de porcelana amarela,1,sala de televisão,NA,NA
+246,misturador,misturador de drink,12,sala de televisão,NA,NA
+247,balde de gelo,balde para gelo cristal com pegador,1,sala de televisão,NA,NA
+248,copinho,copo de cristal aperitivo borda reta,8,sala de televisão,NA,NA
+249,palito,palito de plático,12,sala de televisão,NA,NA
+250,conjunto cadeira e mesa piscina,mesa redonda e 6 cadeiras piscina,1,piscina,NA,NA
+251,conjunto cadeira e mesa piscina,mesa retangular e 4 cadeiras piscina,1,piscina,NA,NA
+252,mesa,mesa marmore com pé ferro,1,piscina,NA,NA
+253,bancos,2 bancos de ferro,2,piscina,NA,NA
+254,hacker,hacker de madeira,1,piscina,NA,NA
+255,cadeiras,cadeiras de plastico menores,6,piscina,NA,NA
+256,som,"som cd, vinil",1,piscina,NA,NA
+257,mesa,2 mesas quadradas pequenas,2,piscina,NA,NA
+258,lustre,1 lustre fixo na parade,1,piscina,NA,NA
+259,lustre,3 lustres de pêndulo na parede,3,piscina,NA,NA
+260,bicicleta,bicicleta hergomêtrica,1,piscina,NA,NA
+261,colchonete,colchonete da espreguiçadeira,1,piscina,NA,NA
+262,sofa,sofa quarto das empregadas,1,quarto empregadas,NA,NA
+263,quadro,quadro família,1,quarto empregadas,NA,NA
+264,comoda,comoda de madeira com gavetas,1,quarto empregadas,NA,NA
+265,cama solteiro,cama solteiro com colchão,1,quarto empregadas,NA,NA
+266,espelho,espelho redondo de ferro,1,quarto empregadas,NA,NA
+267,cadeira,cadeira de madeira,1,quarto costura,NA,NA
+268,cama solteiro,cama solteiro com colchão,1,quarto costura,NA,NA
+269,ferro,ferro de passar roupa black and decker,1,quarto costura,NA,NA
+270,mesa,mesa de madeira com gavetas,1,quarto costura,NA,NA
+271,banqueta,banqueta de madeira,4,área serviço,NA,NA
+272,cesto,cesto de palha,1,quarto costura,NA,NA
+273,máquina costura,máquina costura,1,quarto costura,NA,NA
+274,banco pedra,banco de pedra,1,área churrasqueira,NA,NA
+275,lixeira,lixeira de ferro com tampa,1,área churrasqueira,NA,NA
+276,mesa,mesa de mármore com pé de ferro,1,área churrasqueira,NA,NA
+277,máquina lava louça,máquina de lavar louça,1,cozinha,NA,NA
+278,banqueta,banqueta de madeira,2,cozinha,NA,NA
+279,fruteira,fruteira de ferro,1,cozinha,NA,NA
+280,armário cozinha 1,prateleira 1,1,cozinha,NA,NA
+281,armário cozinha 2,prateleira 2,1,cozinha,NA,NA
+282,armário cozinha 3,prateleira 3,1,cozinha,NA,NA
+283,armário cozinha 4,prateleira 4,1,cozinha,NA,NA
+284,armário cozinha 5,prateleira 5,1,cozinha,NA,NA
+285,armário cozinha 6,prateleira 6,1,cozinha,NA,NA
+286,armário cozinha 7,prateleira 7,1,cozinha,NA,NA
+287,armário cozinha 8,prateleira 8,1,cozinha,NA,NA
+288,armário cozinha 9,prateleira 9,1,cozinha,NA,NA
+289,armário cozinha 10,prateleira 10,1,cozinha,NA,NA
+290,armário cozinha 11,prateleira 11,1,cozinha,NA,NA
+291,armário cozinha 12,prateleira 12,1,cozinha,NA,NA
+292,armário cozinha 13,prateleira 13,1,cozinha,NA,NA
+293,armário cozinha 14,prateleira 14,1,cozinha,NA,NA
+294,geladeira,geladeira,2,cozinha,NA,NA
+295,armário cozinha 15,prateleira 15,1,cozinha,NA,NA
+296,bandeja de madeira,bandeja de madeira,1,cozinha,NA,NA
+297,gamela,gamela de madeira para fruta,1,cozinha,NA,NA
+298,gaveta cozinha 1,gaveta 1,1,cozinha,NA,NA
+299,gaveta cozinha 2,gaveta 2,1,cozinha,NA,NA
+300,gaveta cozinha 3,gaveta 3,1,cozinha,NA,NA
+301,gaveta cozinha 4,gaveta 4,1,cozinha,NA,NA
+302,lixeira,lixeira de ferro sem tampa,3,"quarto vovó, quarto vovô e quarto pedro",NA,NA
+303,poltrona,poltrona de couro preta,2,quarto vovó,NA,NA
+304,cama solteiro,cama solteiro com colchão,1,quarto vovó,NA,NA
+305,aparador,aparador dourado,1,quarto vovó,NA,NA
+306,quadro,quadro jesus,1,quarto vovó,NA,NA
+307,criado mudo,criado mudo de madeira,2,quarto vovó,NA,NA
+308,banco de madeira da poltrona,banco de madeira da poltrona,1,quarto vovó,NA,NA
+309,cama hospital,cama hospital com colchão pneumático,1,quarto vovó,NA,NA
+310,abajur,abajur,2,quarto vovó,NA,NA
+311,quadro,quadro de flores,1,quarto vovó,NA,NA
+312,nossa senhora,nossa senhora,1,quarto vovó,NA,NA
+313,anjinho,anjinho de mesa,1,quarto vovó,NA,NA
+314,mesa,mesa redonda tampo de mármore e pé de madeira,1,quarto vovó,NA,NA
+315,poltrona,poltrona de couro branca,1,quarto vovó,NA,NA
+316,penteadeira,penteadeira com banco e gavetas,1,banheiro vovó,NA,NA
+317,espelho,espelho retangular,1,banheiro vovó,NA,NA
+318,cadeira,cadeira de telinha,1,quarto vovô,NA,NA
+319,armário da piscina,armário de piscina,1,quarta garagem,NA,NA
+320,cama solteiro,cama solteiro com colchão,2,quarto vovô,NA,NA
+321,colchão solteiro,colchão solteiro 2 e infantil 1,3,quarto vovô,NA,NA
+322,criado mudo,criado mudo de madeira,1,quarto vovô,NA,NA
+323,abajur,abajur,1,quarto vovô,NA,NA
+324,objeto,imagem santo livro madeira,1,quarto vovô,NA,NA
+325,enfeite de parede,enfeite de parede,2,quarto vovô,NA,NA
+326,cabideiro,cabideiro de madeira,1,quarto vovô,NA,NA
+327,quadro,quadro de flores,1,corredor,NA,NA
+328,castiçal,castiçal,2,corredor,NA,NA
+329,cachepo,cachepo,1,corredor,NA,NA
+330,aparador,aparador de madeira,1,corredor,NA,NA
+331,banco,banco de ferro branco,1,banheiro social amarelo,NA,NA
+332,cesto roupa suja,cesto de roupa suja de madeira com tampa,1,banheiro social amarelo,NA,NA
+333,armário 1,armário 1,1,corredor,NA,NA
+334,armário 2,armário 2,1,corredor,NA,NA
+335,quadro,quadro de flores,1,corredor,NA,NA
+336,quadro,quadro londres,1,corredor,NA,NA
+337,quadro,quadro tecido,1,corredor,NA,NA
+338,cama casal,cama casal com colchão,1,quarto vó Odete,NA,NA
+339,criado mudo,criado mudo de madeira,1,quarto vó Odete,NA,NA
+340,abajur,abajur,1,quarto vó Odete,NA,NA
+341,objeto,santo,1,quarto vó Odete,NA,NA
+342,mesa,mesa de madeira com gavetas,1,quarto vó Odete,NA,NA
+343,suporte planta,suporte e planta de plástico,1,escada garagem,NA,NA
+344,geladeira,geladeira,1,garagem,NA,NA
+345,esteira,esteira de caminhada,1,garagem,NA,NA
+346,arquivo,arquivo,1,garagem,NA,NA
+347,armário garagem,armário garagem 1,1,garagem,NA,NA
+348,mangueira,mangueira,1,garagem,NA,NA
+349,cadeira balanço,cadeira balanço e telinha,1,garagem,zé augusto,NA
+350,engradado,engradado de plástico,2,garagem,repetido,NA
+351,"cortador, máquina de água, vaso","cordador de grama, máquina de pressão de água e vaso de planta",1,garagem,repetido,NA
+352,tampa mármore,tampa de mármore,2,garagem,repetido,NA
+353,ferramentas jardim,ferramentas jardim,1,garagem,repetido,NA
+354,mesa quadrada,mesa quadrada madeira com 4 cadeiras,1,quarto garagem,NA,NA
+355,armário construção,armário construção,1,quarto garagem,NA,NA
+356,cama casal,cama casal com colchão,1,quarto garagem,NA,NA
+357,criado mudo,criado mudo de madeira,1,quarto garagem,NA,NA
+358,quadro,quadro flor,1,quarto garagem,NA,NA
+359,quadro,quadro barcos,1,quarto garagem,NA,NA
+360,quadro,quadro formatura loes,1,quarto garagem,NA,NA
+361,quadro,quadro paris,1,quarto garagem,NA,NA
+362,aparelho jantar,aparelho jantar com flores 9 pratos grande 7 pequenos e 1 sopeira,1,cozinha,NA,NA
+363,aparelho janter,"aparelho jantar com borda dourtada 24 pratos grandes, 12 pratos sopa, 10 sobremesa, 10 pequenos",1,cozinha,NA,NA
+364,xícara café,"10 xícaras de porcela com pires, borda dourada",1,cozinha,NA,NA
+365,cumbuca porcelana,cumbuca porcelana,9,cozinha,NA,NA
+366,cumbuca vidro,cumbuca vidro,4,cozinha,NA,NA
+367,cumbuca vidro,cumbuca vidro redonda,6,cozinha,NA,NA
+368,taça,taça cristal,4,cozinha,NA,NA
+369,taça,taça vidro,6,cozinha,NA,NA
+370,taça,taça vidro,12,cozinha,NA,NA
+371,copo,copo vidro alto,5,cozinha,NA,NA
+372,copo,copo vidro alto,6,cozinha,NA,NA
+373,copo,copo vidro alto kaiser,12,cozinha,NA,NA
+374,taça,taça vidro,11,cozinha,NA,NA
+375,copo,copo vidro baixo,3,cozinha,NA,NA
+376,taça,taça mais estreita vidro!,8,cozinha,NA,NA
+377,taça,taça mais larga vidro,4,cozinha,NA,NA
+378,taça,taça vinho miracolo,1,cozinha,NA,NA
+379,copo,copo wiskey,1,cozinha,NA,NA
+380,copo,copo verde coca cola,1,cozinha,NA,NA
+381,taça,taça cristal champagne,6,cozinha,NA,NA
+382,prato,prato pequeno vidro,1,cozinha,NA,NA
+383,aparelho jantar,aparelho jantar porcelana sopa,2,cozinha,NA,NA
+384,pirex,pirex redondo alto vidro,1,cozinha,NA,NA
+385,aprelho jantar,aparelho jantar vidro vermelho 1 vasilha e 5 potes,1,cozinha,NA,NA
+386,sopeira,sopeita com tampa,1,cozinha,NA,NA
+387,bacia,bacia aluminio,1,cozinha,NA,NA
+388,sopeira,sopeira de porcelana com tampa,1,cozinha,NA,NA
+389,pirex,pirex oval com tampa de vidro,1,cozinha,NA,NA
+390,conjunto pirex,4 pirex retangular porcelana branca,4,cozinha,NA,NA
+391,conjunto pirex,2 pirex oval porcelana branca,2,cozinha,NA,NA
+392,conjunto pirex,2 pirex oval porcelana branca borda verdinha,2,cozinha,NA,NA
+393,prato,1 prato oval plastico,1,cozinha,NA,NA
+394,vasilha,vasilha redonda vidro,1,cozinha,NA,NA
+395,vasilha,vasilha redonda amarela,1,cozinha,NA,NA
+396,vasilha,vasilha redonda porcelana branca,1,cozinha,NA,NA
+397,vasilha,vasilha redonda plástico transparente,1,cozinha,NA,NA
+398,vasilha,vasilha prateada,1,cozinha,NA,NA
+399,cestinha,cestinhas de palha 2,2,cozinha,NA,NA
+400,vasilha,vasilhas de plastico,2,cozinha,NA,NA
+401,prato,prato porcelana frutas,1,cozinha,NA,NA
+402,prato,prato porcelana flores,1,cozinha,NA,NA
+403,prato,prato porcelana flores,1,cozinha,NA,NA
+404,prato,prato porcelana flores margarida,1,cozinha,NA,NA
+405,prato,prato platico flores,1,cozinha,NA,NA
+406,vasilha,vasilha porcelana marrom,1,cozinha,NA,NA
+407,vasilha,vasilha pequena porcelana branca,1,cozinha,NA,NA
+408,vasilha,vasilhas prateadas redondas,3,cozinha,NA,NA
+409,vasilha,vasilhas prateada de servir,15,cozinha,NA,NA
+410,vasilha,vasilhas vidro redonda alta,4,cozinha,NA,NA
+411,pirex,2 pirex de vidro com suporte (1 pirex estava em uso),2,cozinha,NA,NA
+412,bandeja,bandeja flor quadrada,1,cozinha,NA,NA
+413,aparelho jantar,aparelho de jantar 9 pratos grande e 11 pratos sobremesa,1,cozinha,NA,NA
+414,prato sopa,6 pratos sopa flor,6,cozinha,NA,NA
+415,prato sobremesa,6 pratos sobremesa branco,5,cozinha,NA,NA
+416,tampa bolo,tampa bolo de plastico,1,cozinha,NA,NA
+417,pirex,pirex de vidro redondo com suporte,1,cozinha,NA,NA
+418,pirex,pirex de vidro,1,cozinha,NA,NA
+419,bandeja,bandeja redonda pato,1,cozinha,NA,NA
+420,pote,pote de vidro com tampa,1,cozinha,NA,NA
+421,panela,panela de barro oval,1,cozinha,NA,NA
+422,balança,balança cozinha,1,cozinha,NA,NA
+423,bico,bicos de confeiteiro,1,cozinha,NA,NA
+424,forminhas,forminha vários modelos,1,cozinha,NA,NA
+425,chapa,chapa ferro pequena,1,cozinha,NA,NA
+426,xícara chá,4 xícaras chá com pires flores,4,cozinha,NA,NA
+427,pote,potes vidro pequenos,12,cozinha,NA,NA
+428,pote,potes vidro redondo,5,cozinha,NA,NA
+429,pote,pote plastico pato,3,cozinha,NA,NA
+430,pote,pote porcelana rosinha,2,cozinha,NA,NA
+431,copo,copo plástico flor,3,cozinha,NA,NA
+432,jarra,jarra com medidas vidro,1,cozinha,NA,NA
+433,copo,copos vidro largo,6,cozinha,NA,NA
+434,ralador,ralador pequeno,1,cozinha,NA,NA
+435,jarra,jarras prateadas,2,cozinha,NA,NA
+436,padeira,padeira plastico,1,cozinha,NA,NA
+437,chaleira,chaleira porcelana florzinha,1,cozinha,NA,NA
+438,tabua,tabuas de madeira pequenas,1,cozinha,NA,NA
+439,copo,copo liquidificador avulso,1,cozinha,NA,NA
+440,açucareiro,açucareiro prata sem colher,1,cozinha,NA,NA
+441,pote,pote prateado farinha com colher,1,cozinha,NA,NA
+442,mantegueira,mantegueira prateada,1,cozinha,NA,NA
+443,leiteira,leiteira grande porcelana folhas,1,cozinha,NA,NA
+444,jarra,jarra prateada grande,1,cozinha,NA,NA
+445,travessa,travessas prateadas,5,cozinha,NA,NA
+446,bule,bule prateado,1,cozinha,NA,NA
+447,coador,coador de nata prateado,1,cozinha,NA,NA
+448,suqueira,suqueira pequena de plástico,1,cozinha,NA,NA
+449,moedor,moedor de pimenta,1,cozinha,NA,NA
+450,sino,sino,1,cozinha,NA,NA
+451,cestinhos,cestinhos de palhas,2,cozinha,NA,NA
+452,conjunto panela,conjunto panela inox,5,cozinha,NA,NA
+453,pote,pote de vidro grande com tampa,4,cozinha,NA,NA
+454,leiteiras,2 leiteiras de porcelana brancas pequenas,2,cozinha,NA,NA
+455,pirex,pirex retangular de vidro com tampa,1,armário corredor,aparelho,NA
+456,bandeja,bandeja natal,1,armário corredor,NA,NA
+457,bandeja,bandeja flores,1,armário corredor,xícara café,NA
+458,bandeja,bandeja flores com divisórias,1,armário corredor,xícara chá,NA
+459,bandeja,bandejas bambu pintura japonsa,2,armário corredor,NA,NA
+460,bandeja,bandejas retangulares prata pequenas,2,armário corredor,NA,NA
+461,bandeja,bandeja redonda prata,1,armário corredor,NA,NA
+462,efeite,efetie de flor dourado,5,armário corredor,NA,NA
+463,pote,pote porcelana pintura azul,1,armário corredor,NA,NA
+464,pote,pote pintura vermelha,1,armário corredor,NA,NA
+465,prato,prato vidro pequeno,1,armário corredor,NA,NA
+466,bandeja,bandeja prata redonda,1,armário corredor,NA,NA
+467,pote,pote porcelana com colher desenhada,1,armário corredor,NA,NA
+468,pote,potes redondos pequenos de vidro,6,armário corredor,NA,NA
+469,vasilha,vasilha de madeira,1,armário corredor,NA,NA
+470,prato,prato de metal,1,armário corredor,NA,NA
+471,talheres,talhares de madeira,2,armário corredor,NA,NA
+472,faca,faca,1,armário corredor,NA,NA
+473,tábua,tábua de servir de madeira,1,armário corredor,NA,NA
+474,pirex,pirex retangular de vidro com suporte e tampa de prata,1,armário corredor,NA,NA
+475,pirex,pirex oval de vidro com suporte,1,armário corredor,NA,NA
+476,pirex,pirex retangular de vidro com suporte e tampa de prata,1,armário corredor,NA,NA
+477,pirex,pirex retangular de vidro,1,armário corredor,NA,NA
+478,embrulhos,"forro de bolo, guardanapo e prato de papel",1,armário corredor,NA,NA
+479,concha,casquinha de siri,25,armário corredor,NA,NA
+480,frasco,frasco vidro,1,armário corredor,NA,NA
+481,cesta,cesta de aluminínio,2,armário corredor,NA,NA
+482,caneca,caneca de metal,1,armário corredor,NA,NA
+483,enfeite barro,enfeite de barro,1,armário corredor,NA,NA
+484,pote,potinhos quadrados de metal,6,armário corredor,NA,NA
+485,frasco,frasco vidro bico de jaca com tampa,1,armário corredor,NA,NA
+486,castiçal,castiçal porcelana verde água,1,armário corredor,NA,NA
+487,escorredor,escorredor de prata,1,armário corredor,NA,NA
+488,porta guardanapo,porta guardanapo cisnei prata,1,armário corredor,NA,NA
+489,vaso,vaso pequeno de barro,1,armário corredor,NA,NA
+490,efeite,flores de enfeite,1,armário corredor,NA,NA
+491,efeite,uvas de enfeite,1,armário corredor,NA,NA
+492,prato,prato redondo o com pé bailarinha,1,armário corredor,NA,NA
+493,pote,pote de vidro oval,1,armário corredor,NA,NA
+494,concha,conchinhas de prata,6,armário corredor,NA,NA
+495,colheres,colheres de madeira,6,armário corredor,NA,NA
+496,descanso de mesa,descanso de mesa prateado,5,armário corredor,NA,NA
+497,enfeite,flores de enfeite,1,armário corredor,NA,NA
+498,jarra,jarra de prata,1,armário corredor,NA,NA
+499,prato,prato redondo com pé bailarina,1,armário corredor,NA,NA
+500,jarra,jarra de prata,1,armário corredor,NA,NA
+501,pote,pode redondo com tampa,1,armário corredor,NA,NA
+502,bule,bule prata,1,armário corredor,NA,NA
+503,prato,prato redondo porcelana,1,armário corredor,NA,NA
+504,conjunto chá,conjunto chá prata,5,armário corredor,NA,NA
+505,pote,pote estreito vidro verde,1,armário corredor,NA,NA
+506,copo,copo vidro alto kaiser,6,armário corredor,NA,NA
+507,bule,bule prata,1,armário corredor,NA,NA
+508,moringa,moringa de barro com copo e pires,1,armário corredor,NA,NA
+509,prato,pratos pequenos,2,armário corredor,NA,NA
+510,bandeja,bandeira rendonda madeira,1,armário corredor,NA,NA
+511,prato,prato rendondo com pé bailarina,1,armário corredor,NA,NA
+512,prato,prato rendondo,1,armário corredor,NA,NA
+513,prato,prato rendondo,1,armário corredor,NA,NA
+514,prato,pratos pequenos quadrado,2,armário corredor,NA,NA
+515,prato,prato pequeno camarão,1,armário corredor,NA,NA
+516,jogo porcelana,jogo porcelana 6 xícaras,1,armário corredor,NA,NA
+517,jogo porcelana,jogo porcelana 3 xícaras,1,armário corredor,NA,NA
+518,jogo porcelana,jogo porcelana 5 xícaras,1,armário corredor,NA,NA
+519,jogo porcelana,jogo porcelana 6 xícaras,1,armário corredor,NA,NA
+520,jogo porcelana,jogo porcelana 4 xícaras,1,armário corredor,NA,NA
+521,prato,prato redondo,1,armário corredor,NA,NA
+522,pote,pote porcelana branca redondo com tampa,1,armário corredor,NA,NA
+523,travessa,travessas porcelanas com flores,2,armário corredor,NA,NA
+524,açucareiro,açucareiro prata e vidro com colher,1,armário corredor,NA,NA
+525,guizo,5 guizos de natal,5,armário corredor,NA,NA
+526,leiteira,leiteira pequena porcela branca,1,armário corredor,NA,NA
+527,porta xícara,porta xícara ferro,1,armário corredor,NA,NA
+528,pote,pote estreito vidro amarelo,1,armário corredor,NA,NA
+529,pote,potinhos redondos vidro,5,armário corredor,NA,NA
+530,xícara,xícara porcelana,1,armário corredor,NA,NA
+531,porta talheres,12 porta talheres,12,armário corredor,NA,NA
+532,tacinha,tacinha de prata,1,armário corredor,NA,NA
+533,paliteiro,paliteiro prata,1,armário corredor,NA,NA
+534,pote,pote vidro com suporte e colher,1,armário corredor,NA,NA
+535,porta guardanapo,porta guardanapo prata,2,armário corredor,NA,NA
+536,jogo porcelana,jogo porcelana 2 xícaras,2,armário corredor,NA,NA
+537,porta mel,porta mel de acrílico,1,armário corredor,NA,NA
+538,taça,taça cristal conjunto são luis,6,armário corredor,NA,NA
+539,copo,copo wiskey,10,armário corredor,NA,NA
+540,pote,pote redondo vidro,1,armário corredor,NA,NA
+541,pote,pote porcelana fruta,1,armário corredor,NA,NA
+542,pote,pote porcelana verde,1,armário corredor,NA,NA
+543,prato,prato rendondo vidro,1,armário corredor,NA,NA
+544,prato,prato redondo anthurium,1,armário corredor,NA,NA
+545,caneca,caneca frade,1,armário corredor,NA,NA
+546,porta guardanapo,4 porta guardanapo metal,4,armário corredor,NA,NA
+547,pote,4 potes redondos médio com tampa,4,armário corredor,NA,NA
+548,pirex,pirex retangular vidro com tampa,1,armário corredor,NA,NA
+549,prato,prato porcelana borda dourada,7,armário corredor,NA,NA
+550,vasilha,vasilha porcelana ondula,3,armário corredor,NA,NA
+551,pote,3 potes redondos médio,3,armário corredor,NA,NA
+552,pote,pote cristal com tampa,1,armário corredor,NA,NA
+553,vasilha,vasilha rendoda vidro,1,armário corredor,NA,NA
+554,vasilha,vasilha redonda,1,armário corredor,NA,NA
+555,prato,prato sobremesa porcelana borda dourada,2,armário corredor,NA,NA
+556,guardanapos papel,guardanapos papel,4,armário corredor,NA,NA
+557,pirex,pirex retangular porcelana com tampa vidro,1,armário corredor,NA,NA
+558,copo,copo bico de jaca alto,3,armário corredor,NA,NA
+559,bule,bule porcelana branca,1,armário corredor,NA,NA
+560,pote,pote com tampa,1,armário corredor,NA,NA
+561,bule,bule do conjunto azul,1,armário corredor,NA,NA
+562,pote,pote metal com desenhos florais,1,armário corredor,NA,NA
+563,prato,prato redondo,1,armário corredor,NA,NA
+564,bandeja,bandeja redonda prata,1,armário corredor,NA,NA
+565,prato,prato vidro grande,1,armário corredor,NA,NA
+566,bandeja,bandeja acrílico,1,armário corredor,NA,NA
+567,cestinha,cestinhas de palha 2,2,armário corredor,NA,NA
+568,prato,prato oitavado porcelana,6,armário corredor,NA,NA
+569,pirex,pirex retangular vidro,2,armário corredor,NA,NA
+570,cestinha,cestinha,2,armário corredor,NA,NA
+571,tampa de bolo,tampa de bolo acrilico,1,armário corredor,NA,NA
+572,cinzeiro,cinzeiro porcelana,1,armário corredor,NA,NA
+573,pirex,pirex porcelana retangular grande,1,armário corredor,NA,NA
+574,vasilha,vasilha redonda vidro,1,armário corredor,NA,NA
+575,vasilha,vasilha redonda vidro flores,1,armário corredor,NA,NA
+576,bandeja,bandeja flores fundo preto,1,armário corredor,NA,NA
+577,pote,pote detalhes flores,1,armário corredor,NA,NA
+578,pote,pode madeira com colher e tampa,1,armário corredor,NA,NA
+579,castiçal,castiçal prata,1,armário corredor,NA,NA
+580,conjunto bule,conjunto bule prata,7,armário corredor,NA,NA
+581,vasilha,vasilha redonda,1,armário corredor,NA,NA
+582,cesta,cesta palha,1,armário corredor,NA,NA
+583,suqueira,suqueira grande vidro com tampa,1,armário corredor,NA,NA
+584,pote,pote alto bico de jaca,1,armário corredor,NA,NA
+585,pote,pote vidro redondo,1,armário corredor,NA,NA
+586,pote,pote vidro redondo,1,armário corredor,NA,NA
+587,descanso de mesa,descanso de mesa prata 6,6,armário corredor,NA,NA
+588,bandeja,bandeja 2 andares vermelha,1,armário corredor,NA,NA
+589,bule,bule prata,1,armário corredor,NA,NA
+590,pote,pote vidro,1,armário corredor,NA,NA
+591,jarro,jarra prata,1,armário corredor,NA,NA
+592,jarra,jarra vidro,1,armário corredor,NA,NA
+593,jarro,jarro vidro,1,armário corredor,NA,NA
+594,jarra,jarra bico de jaca com tampa,1,armário corredor,NA,NA
+595,garrafa,garrafa de vidro escura,1,armário corredor,NA,NA
+596,taça,taça borda dourada,4,armário corredor,NA,NA
+597,pote,pote metal,2,armário corredor,NA,NA
+598,geleira,geleira isopor com tampa,1,armário corredor,NA,NA
+599,pote,pote porcelana,1,armário corredor,NA,NA
+600,guardanapos papel,"guardanapos papel, prato papel e forminhas",1,armário corredor,NA,NA
+601,suporte,suporte metal,1,armário corredor,NA,NA
+602,jogo porcelana,jogo porcelana amarelo travessas,1,armário corredor,NA,NA
+603,jogo porcelana,"jogo porcelana amarelo 24 pratos grandes, 11 pratos sobremesa",1,armário corredor,NA,NA
+604,jogo porcelana,jogo porcelana amarelo 3 sopeiras sendo 2 com tampa,1,armário corredor,NA,NA
+605,jogo porcelana,jogo porcelana branco com detalhe prateado prato sobremesa 6,1,armário corredor,NA,NA
+606,jogo porcelana,jogo porcelana branco com detalhe prateado prato sobremesa 11,1,armário corredor,NA,NA
+607,jogo porcelana,jogo porcelana branco com detalhe flores prateado xícara café e pires 12,1,armário corredor,NA,NA
+608,jogo porcelana,jogo porcelana branco com detalhe flores prateado xícara chá e pires 8,1,armário corredor,NA,NA
+609,pote,pote com tampa,1,armário corredor,NA,NA
+610,copo,copo bico de jaca vidro,16,armário corredor,NA,NA
+611,ventilador,ventilador 40cm arno,1,quarto vovo,NA,NA
+612,xícara,xícara pêssego porcelana,1,quarto vovo,NA,NA
+613,estatutas,esculturas pedra sabão,2,quarto vovo,NA,NA
+614,gravuras,gravuras em nanquim,3,quarto vovo,NA,NA
+615,ferro de passar roupa,ferro de passar roupa,1,quarto vovo,NA,NA
+616,xícara,xícara de cobre indiana,1,quarto vovo,NA,NA
+617,planta da casa,planta da casa branca,1,quarto vovo,NA,NA
+618,planta da casa,planta da casa vermelha (piscina),1,quarto vovo,NA,NA
+619,planta da casa,planta da casa azul (fachada principal),1,quarto vovo,NA,NA
+620,planta da casa,planta da casa branca (jardim de inverno com a sala),1,quarto vovo,NA,NA
+621,foto,foto do vovo formatura,1,quarto vovo,NA,NA
+622,foto,foto pai da vovo (eustaquio),1,quarto vovo,NA,NA
+623,caixa de música,caixa de música com pássaros,1,quarto vovo,NA,NA
+624,tapete,apara de tapete tabacow 1m,1,quarto vovo,NA,NA
+625,anel,anel formatura vovo esmeralda,1,quarto vovo,NA,NA
+626,chapeu,chapeu verde,1,quarto vovo,NA,NA
+627,geleira,geleira de prata com tampa,1,quarto vovo,NA,NA
+628,aquecedor,aquecedor ventisol portatil,1,quarto vovo,NA,NA
+629,pote,pote esmaltado branco com tampa,1,quarto vovo,NA,NA
+630,boneca,beneca,1,quarto vovo,NA,NA
+631,copo,6 copos de vidro pintados,6,quarto vovo,NA,NA
+632,caixa de costura,caixa de costura,1,quarto vovo,NA,NA
+633,caixinha,caixa de madeira com desenohs na tampa,1,quarto vovo,NA,NA
+634,caixinha,caixinha de madeira com tampa de metal,1,quarto vovo,NA,NA
+635,fotos,caixa com fotos antigas,1,quarto vovo,NA,NA
+636,boleira,boleira de porcelana,1,quarto vovo,NA,NA
+637,retrato,retrato vo lau,1,quarto vovo,NA,NA
+638,xícara,2 xícaras porcelanas,2,quarto vovo,NA,NA
+639,conjunto cerâmica,2 conjuntos consumê sônia toledo,2,quarto vovo,NA,NA
+640,vinho tinto,vinho tinto com 2 taças de cristal,1,quarto vovo,NA,NA
+641,azeite,azeite pintas na caixa,1,quarto vovo,NA,NA
+642,cachaças,5 garrafas de cachaça,5,quarto vovo,NA,NA
+643,vinho porto,3 garrafas vinho porto,3,quarto vovo,NA,NA
+644,bebidas,bebidas variadas 6 garrafas,6,quarto vovo,NA,NA
+645,vinhos tintos,13 garrafas de vinho tinto,13,quarto vovo,NA,NA
+646,mesa quadrada,4 mesas de inox dobraveis,4,quarto vovo,NA,NA
+647,cadeira,19 cadeiras de inox dobraveis,19,quarto vovo,NA,NA
+648,pé de pato,1 par de pé de pato,1,quarto vovo,NA,NA
+649,almofada de banho,2 almofadas de banho,2,quarto vovo,NA,NA
+650,livros,livros diversos vovo iole,1,quarto vovo,NA,NA
+651,caixinha,caixinha com tampa bordada,1,quarto vovo,NA,NA
+652,caran d'ache,caran d'ache,1,quarto vovo,NA,NA
+653,caneleira ginastica,1 par de caneleira de ginastica,1,quarto vovo,NA,NA
+654,cabideiro,cabideiro de madeira,1,quarto vovo,NA,NA
+655,cobertores de lã,4 cobertores de lã,4,quarto vovo,NA,NA
+656,antiderrapante,2 antiderrapantes,2,quarto vovo,NA,NA
+657,almofada antirrefluxo,almofada antirrefluxo,1,quarto vovo,NA,NA
+658,travesseiros,6 travesseiros,6,quarto vovo,NA,NA
+659,almofadas cabeça,4 almofadas de cabeça,4,quarto vovo,NA,NA
+660,balança,balança de banheiro,1,quarto vovo,NA,NA
+661,cobertores de lã,2 cobertores de lã,2,quarto vovo,NA,NA
+662,raquete antiga,raquete antiga,1,quarto vovo,NA,NA
+663,chapeleira com diversos chapeus,chapeleira com diversos chapeus,1,quarto vovo,NA,NA
+664,diversos panos de prato,diversos panos de prato,1,quarto vovo,NA,NA
+665,andador,andador de aluminio,1,quarto vovo,NA,NA
+666,cesta,cesta papai noel,1,quarto vovo,NA,NA
+667,bandejas,2 bandejas de mandeira,2,quarto vovo,NA,NA
+668,cestas,4 cestas de palha,4,quarto vovo,NA,NA
+669,flores enfeite,flores de enfeite diversas,1,quarto vovo,NA,NA
+670,aquário,aquário redondo de vidro,1,quarto vovo,NA,NA
+671,pote porcelana,pote porcelana,1,quarto vovo,NA,NA
+672,pote cerâmica,pote cerâmica,1,quarto vovo,NA,NA
+673,espelho,espelho retangular,4,quarto vovo,NA,NA
+674,aparelho founde,aparelho founde carne,1,quarto vovo,NA,NA
+675,pote barro,pote barro,1,quarto vovo,NA,NA
+676,jarro porcelana,jarro porcelana,1,quarto vovo,NA,NA
+677,cesto de palha,cesto de palha,1,quarto vovo,NA,NA
+678,jarro metal,jarro de metal,1,quarto vovo,NA,NA
+679,almofada bandeja,almofada bandeja,1,quarto vovo,NA,NA
+680,bandeja bambu,bandeja bambu,1,quarto vovo,NA,NA
+681,bandeja inox,bandeja inox redonda,1,quarto vovo,NA,NA
+682,bandeja,bandeja emborrachada,1,quarto vovo,NA,NA
+683,bandeja para cama,bandeja madeira para cama,1,quarto vovo,NA,NA
+684,bolsas térmicas,2 bolsas térmicas,2,quarto vovo,NA,NA
+685,almofadas bordadas crochê,3 almofadas bordadas crochê,3,quarto vovo,NA,NA
+686,rede,rede vermelha,1,quarto vovo,NA,NA
+687,colcha croche,colcha casal croche,1,quarto vovo,NA,NA
+688,pano croche,pano croche,1,quarto vovo,NA,NA
+689,jogo cama casal,5 jogos de cama casal,5,corredor,NA,NA
+690,jogo toalha casal,4 jogos tolha casal,4,corredor,NA,NA
+691,jogo toalha casal,2 jogos tolha casa,2,corredor,NA,NA
+692,jogo cama solteiro,5 jogos de cama solteiro,5,corredor,NA,NA
+693,jogo cama solteiro,2 jogos de cama solteiro,3,corredor,NA,NA
+694,diversas toalhas solteiro,diversas toalhas solteiro,1,corredor,NA,NA
+695,tolhas de mesa jantar,6 toalhas de mesa jantar,6,corredor,NA,NA
+696,colchas,2 colchas brancas solteiro,2,corredor,NA,NA
+697,colchas,2 colchas coloridas solteiro,2,corredor,NA,NA
+698,tolhas mesa redonda,6 toalhas de mesa rendonda,6,corredor,NA,NA
+699,tolhas banheiro social,4 toalhas banheiro social,4,corredor,NA,NA
+700,cobertores,2 cobertores solteiro,2,corredor,NA,NA
+701,toalhas mesa,2 toalhas mesa,2,corredor,NA,NA
+702,extensão,1 extensão,1,corredor,NA,NA
+703,espanador de pó,espanador de pó,1,corredor,NA,NA
+704,cabideiro parede,cabideiro de madeira parede,1,corredor,NA,NA
+705,enseradeira,enseradeira,1,corredor,NA,NA
+706,aspirador eletrolux cinza,aspirador eletrolux cinza,1,corredor,NA,NA
+707,aspirador eletrolux preto,aspirador eletroluz preto,1,corredor,NA,NA
+708,caixa engrachate,caixa madeira engrachate,1,corredor,NA,NA
+709,vassouras,diversas vassouras e pazinhas,1,corredor,NA,NA
+710,travesseiros,10 travesseiros,10,quarto vovo odete,NA,NA
+711,cobertores e mantas,11 cobertores e mantas,11,quarto vovo odete,NA,NA
+712,máquina fotográfica,máquina fotográfica telka 3,1,quarto vovo odete,NA,NA
+713,máquina fotográfica,máquina fotográfica yashica,1,quarto vovo odete,NA,NA
+714,bíblia e suporte,bíblia sagrada com suporte,1,quarto vovo odete,NA,NA
+715,tapete,tapete crochê,1,quarto vovo odete,NA,NA
+716,colcha cama,colcha cama casal,1,quarto vovo odete,NA,NA
+717,toalha mesa jantar,toalha crochê mesa jantar com guardanapos,1,quarto vovo odete,NA,NA
+718,toalha mesa jantar,toalha vermelha mesa jantar com guardanapos,1,quarto vovo odete,NA,NA
+719,toalha mesa jantar,toalha linho flores mesa jantar com guardanapos,1,quarto vovo odete,NA,NA
+720,toalha mesa jantar,toalha portuguesa mesa jantar com guardanapos,1,quarto vovo odete,NA,NA
+721,toalha mesa jantar,toalha borda crochê mesa jantar com guardanapos,1,quarto vovo odete,NA,NA
+722,toalha mesa jantar,toalha linha mesa jantar,1,quarto vovo odete,NA,NA
+723,toalha mesa jantar,toalha detalhes crochê mesa jantar,1,quarto vovo odete,NA,NA
+724,toalha mesa jantar,toalha bordada mesa jantar,1,quarto vovo odete,NA,NA
+725,toalhas banheiro social,3 toalhas banheiro social,3,quarto vovo odete,NA,NA
+726,toalha mesa jantar,toalha bordada mesa jantar,1,quarto vovo odete,NA,NA
+727,toalhas mesa quadrada,5 toalhas vermelhas mesa quadrada,5,quarto vovo odete,NA,NA
+728,toalha mesa jantar,toalha bordada florida mesa jantar,1,quarto vovo odete,NA,NA
+729,forro mesa baralho,forro verde mesa redonda,1,quarto vovo odete,NA,NA
+730,toalha mesa jantar,toalha furadinha branca mesa jantar,1,quarto vovo odete,NA,NA
+731,toalha mesa jantar,toalha branca mesa jantar,1,quarto vovo odete,NA,NA
+732,toalha mesa jantar,toalha branca indiana mesa jantar,1,quarto vovo odete,NA,NA
+733,caminhos de mesa,7 caminhos de mesa,7,quarto vovo odete,NA,NA
+734,toalha branca,toalha branca,1,quarto vovo odete,NA,NA
+735,tapete banheiro,tapete banheiro rosa,1,quarto vovo odete,NA,NA
+736,toalha mesa jantar,toalha mesa jantar crochê,1,quarto vovo odete,NA,NA
+737,fronha travesseiro,4 fronhas travesseiro,4,quarto vovo odete,NA,NA
+738,colchas,9 colchas (solteiro e casal),9,quarto vovo odete,NA,NA
+739,guardanapos linho,8  guardanapos de linho,8,quarto vovo odete,NA,NA
+740,colchas,2 colchas,2,quarto vovo odete,NA,NA
+741,colcha,colcha crochê com forro dourado,1,quarto vovo odete,NA,NA
+742,malas,2 malas com rodinha azul,2,quarto vovo odete,NA,NA
+743,mala,mala com rodinha preta,1,quarto vovo odete,NA,NA
+744,flor metal,flor de metal com pétalas avulsas,1,quarto vovo odete,NA,NA
+745,ferramentas jardim,ferramentas jardim (exceto escada embalada em plástico azul),1,escada garagem,NA,NA
+746,cadeiras,2 cadeiras de madeira conjunto,2,escada garagem,NA,NA
+747,tampo mármore,2 tampos de mesa de mármore,2,escada garagem,NA,NA
+748,cama solteiro,"2 camas solteiro, faltando a cabeira de 1 cama",2,escada garagem,NA,NA
+749,hacker,hacker de madeira,1,escada garagem,NA,NA
+750,engradados,2 engradados plástico,2,escada garagem,NA,NA
+751,cama solteiro,cama solteiro de madeira,1,escada garagem,NA,NA
+752,pé da mesa,pé de madeira da mesa de mármore,1,escada garagem,NA,NA
+753,colchas,1 colcha florida solteiro e 1 colcha verde casal,1,quarto vovo odete,NA,NA
+754,colcha,colcha crochê casal,1,quarto vovo odete,NA,NA
+755,panelas alumínio,4 panelas alumínio,4,cozinha,NA,NA
+756,caldeirão pequeno,2 caldeirões pequenos,2,cozinha,NA,NA
+757,frigideiras,4 frigideiras de alumínio,4,cozinha,NA,NA
+758,tampas,tampas de panelas,14,cozinha,NA,NA
+759,panela pressão,panela de pressão,1,cozinha,NA,NA
+760,chaleiras,2 chaleiras de alumínio com tampa,2,cozinha,NA,NA
+761,panelas alumínio,4 panelas alumínio,4,cozinha,NA,NA
+762,formas bolo,8 formas de bolo de alumínio,8,cozinha,NA,NA
+763,panelas alumínio,3 panelas de alumínio,3,cozinha,NA,NA
+764,escorredor alumínio,2 escorredores de alumínio,2,cozinha,NA,NA
+765,panelas alumínio,3 panelas de alumínio,3,cozinha,NA,NA
+766,caneca alumínio,4 canecas de alumínio,4,cozinha,NA,NA
+767,moedor carne,1 moedor de carne,1,cozinha,NA,NA
+768,espremedor,espremedor de inox manual (suco),1,cozinha,NA,NA
+769,espremedor,espremedor de alumínio manual,1,cozinha,NA,NA
+770,rolo,2 rolos de madeira,2,cozinha,NA,NA
+771,coadores plástico,5 coadores de plástico,5,cozinha,NA,NA
+772,coador alumínio,coador alumínio,1,cozinha,NA,NA
+773,ralador,4 raladores alumínio,4,cozinha,NA,NA
+774,tabuleiros,8 tabuleiros alumínio,8,cozinha,NA,NA
+775,formas empadinha,formas de empadinhas,NA,cozinha,NA,NA
+776,latas alumínio,7 latas alumínio (2 estão na dispensa),7,cozinha,NA,NA
+777,bacia plástico,1 bacia de plástico vermelha,1,cozinha,NA,NA
+778,talheres cozinha,talheres de cozinha diversas,1,cozinha,NA,NA
+779,latas alumínio,latas alumínio,NA,cozinha,NA,NA
+780,bacias alumínio,2 bacias de alumínio,2,cozinha,NA,NA
+781,bacia plástico,bacia plástico azul,1,cozinha,NA,NA
+782,panelas,1 panela alumínio 1 panela ferro,2,cozinha,NA,NA
+783,baldes,2 baldes plástico,2,cozinha,NA,NA
+784,banco madeira,banco pequeno madeira,1,dispensa,NA,NA
+785,máquina lavar roupa,máquina lavar roupa 11kg brastemp,1,área serviço,NA,NA
+786,panelas,2 panelas grandes,2,churrasqueira,NA,NA
+787,assadeiras,2 assadeiras redondas,4,churrasqueira,NA,NA
+788,caneca,caneca alumínio,1,churrasqueira,NA,NA
+789,moedor carne,moedor de carne,1,churrasqueira,NA,NA
+790,panela ferro,panela de ferro,1,churrasqueira,NA,NA
+791,panela alumínio,panela alumínio,1,churrasqueira,NA,NA
+792,panela alumínio,panela alumínio,1,churrasqueira,NA,NA
+793,assadeira,assadeira redonda,1,churrasqueira,NA,NA
+794,panela alumínio,panela alumínio,1,churrasqueira,NA,NA
+795,tábua madeira,tábua de madeira,1,churrasqueira,NA,NA
+796,escorredor,escorredor de alumínio,1,churrasqueira,NA,NA
+797,caneco,caneca alumínio,1,churrasqueira,NA,NA
+798,mala com roupas antigas,mala com roupas antigas,1,quarto costura,NA,NA
+799,cortinas,6 cortinas brancas,6,quarto costura,NA,NA
+800,pinicos,2 pinicos,2,quarto costura,NA,NA
+801,ferro de passar roupa,2 ferro de passar roupa,2,quarto costura,NA,NA
+802,enfeites natal,enfeites natal,1,quarto costura,NA,NA
+803,enfeites natal,enfeites natal,1,quarto costura,NA,NA
+804,boneca,boneca,1,quarto costura,NA,NA
+805,papai noel,papai noel,1,quarto costura,NA,NA
+806,enfeites natal,enfeites natal,1,quarto costura,NA,NA
+807,mesa,mesa quadrada pequena tampo mármore e pé de ferro,1,quarto costura,NA,NA
+808,cadeira madeira,cadeira madeira,1,quarto costura,NA,NA
+809,itens de costura,itens do armário de costura,1,quarto costura,NA,NA
+810,NA,NA,NA,NA,NA,NA
+811,NA,NA,NA,NA,NA,NA
+812,NA,NA,NA,NA,NA,NA
+813,NA,NA,NA,NA,NA,NA
+814,NA,NA,NA,NA,NA,NA
+815,NA,NA,NA,NA,NA,NA
+816,NA,NA,NA,NA,NA,NA
+817,NA,NA,NA,NA,NA,NA
+818,NA,NA,NA,NA,NA,NA
+819,NA,NA,NA,NA,NA,NA
+820,NA,NA,NA,NA,NA,NA
+821,NA,NA,NA,NA,NA,NA
+822,NA,NA,NA,NA,NA,NA
+823,NA,NA,NA,NA,NA,NA
+824,NA,NA,NA,NA,NA,NA
+825,NA,NA,NA,NA,NA,NA
+826,NA,NA,NA,NA,NA,NA
+827,NA,NA,NA,NA,NA,NA
+828,NA,NA,NA,NA,NA,NA
+829,NA,NA,NA,NA,NA,NA
+830,NA,NA,NA,NA,NA,NA
+831,NA,NA,NA,NA,NA,NA
+832,NA,NA,NA,NA,NA,NA
+833,NA,NA,NA,NA,NA,NA
+834,NA,NA,NA,NA,NA,NA
+835,NA,NA,NA,NA,NA,NA
+836,NA,NA,NA,NA,NA,NA
+837,NA,NA,NA,NA,NA,NA
+838,NA,NA,NA,NA,NA,NA
+839,NA,NA,NA,NA,NA,NA
+840,NA,NA,NA,NA,NA,NA
+841,NA,NA,NA,NA,NA,NA
+842,NA,NA,NA,NA,NA,NA
+843,NA,NA,NA,NA,NA,NA
+844,NA,NA,NA,NA,NA,NA
+845,NA,NA,NA,NA,NA,NA
+846,NA,NA,NA,NA,NA,NA
+847,NA,NA,NA,NA,NA,NA
+848,NA,NA,NA,NA,NA,NA
+849,NA,NA,NA,NA,NA,NA
+850,NA,NA,NA,NA,NA,NA

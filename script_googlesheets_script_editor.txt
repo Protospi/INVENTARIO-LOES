@@ -1,0 +1,18 @@
+# Get links from google drive folder
+
+tools > script editor
+
+function myFunction() {
+  var ss=SpreadsheetApp.getActiveSpreadsheet();
+  var s=ss.getActiveSheet();
+  var c=s.getActiveCell();
+  var fldr=DriveApp.getFolderById("13iZO7aBogejSKcgMuWa4AH1cj996qV2c");
+  var files=fldr.getFiles();
+  var names=[],f,str;
+  while (files.hasNext()) {
+    f=files.next();
+    str='=hyperlink("' + f.getUrl() + '","' + f.getName() + '")';
+    names.push([str]);
+  }
+  s.getRange(c.getRow(),c.getColumn(),names.length).setFormulas(names);
+}

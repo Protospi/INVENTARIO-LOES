@@ -1,0 +1,9 @@
+/*image that a want to put in the header*/
+.windows{
+position: fixed;
+right: 0;
+top: 0;
+white-space: nowrap;
+overflow: visible;
+background-color: #FFFFFF;
+z-index:9999999;}

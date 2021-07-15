@@ -1,0 +1,36 @@
+---
+title: "Recibo"
+author: "`r params$usuario`"
+date: "`r Sys.time()`"
+output: pdf_document
+params:
+  table1: NA
+  img: NA
+  usuario: NA
+---
+
+```{r, echo = FALSE, warning=FALSE, error=FALSE, message=FALSE, fig.align='center', fig.width=5}
+
+# Carrega Bibliotecas
+library(png)
+library(grid)
+
+# Imprime imagem
+grid.raster(params$img)
+
+```
+
+# Itens Escolhidos
+
+```{r, echo = FALSE, warning=FALSE, error=FALSE, message=FALSE}
+
+library(knitr)
+
+kable(params$table1)
+
+total = sum(params$table1[, "Preço"])
+
+```
+
+# Total = R$ `r format(total, scientific = FALSE)`
+

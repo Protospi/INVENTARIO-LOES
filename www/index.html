@@ -1,0 +1,91 @@
+
+<!-- Declara HTML -->
+<!DOCTYPE html>
+
+<!-- Declara classe -->
+<html class="no-js" lang="en">
+
+<!-- Cabecalho -->
+<head>
+
+    <!--- Caracteristicas basicas da pagina
+    ================================================== -->
+    <meta charset="utf-8">
+    <title>Shiny HTML Template App</title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Responsividade
+    ================================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- CSS
+    ================================================== -->
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/main.css">
+
+    <!-- Shiny
+    ================================================== -->
+    {{ headContent() }}
+    
+    <!-- Estilo
+    ================================================== -->
+    <style>.selectize-dropdown {z-index: 10000}</style>
+    <style>input[type=checkbox] {transform: scale(2)}</style>
+    
+</head>
+
+<!-- Corpo -->
+<body id="top" style="background-color:#f53347;">
+
+    <div>
+      
+      <!-- Capa -->
+    <img src="images/frente_final.jpg" style= "width: 100%; height: auto" />
+      
+    </div>
+    
+    <!-- Tabela -->
+    {{tabela}}
+          
+    <!-- Formulario -->
+    <div style="width: 100%; overflow: hidden; background-color:#3e8fce">
+      
+        <div style="margin-left:25px; width: 200px; float: left; ">
+          
+          <br>
+          
+          <!-- Saída de Total Gasto -->
+          <spam, style="color:#000000">{{total}}</spam>
+          
+          <br>
+          
+          <!-- Entrada do Nome do usuário -->
+          {{texto}}
+          
+          <!-- Botão de envio do recibo -->
+          {{botao}}
+          <br>
+          
+          <!-- Botão de dowload do recibo -->
+          {{relatorio}}
+          
+        </div>
+        
+        <div style="margin-left: 245px;">
+           
+           <!-- Imagen animação gif -->
+           <img src="images/anime_loes3.gif" style="display: flex; min-width: 100%; min-height: 100%; width: auto; height: auto; "/>  
+           
+        </div>
+            
+    </div>
+    
+    <!-- Contato -->
+    <div style="margin-left:10px" >
+      <spam, style="color:#000000">Contato: ladeiraloes@gmail.com</spam>
+    </div>
+    
+</body>
+
+</html>

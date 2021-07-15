@@ -1,0 +1,91 @@
+
+
+/* ----------------------------------------------------------------- */
+
+.js-irs-0 .irs-bar {
+  border-top-color: #39b54a;
+    border-bottom-color: #39b54a;
+} 
+
+.js-irs-0 .irs-bar-edge {
+  border-color: #39b54a;
+}
+
+.js-irs-0 .irs-single, .js-irs-0 .irs-bar-edge, .js-irs-0 .irs-bar {
+  background: #39b54a;
+}
+
+.js-irs-0 .irs-grid-text {
+    bottom: 8px;
+    color: #ffffff;
+}
+
+.js-irs-0 .irs-grid-pol.small {
+    height: 4px;
+    background: #ffffff;
+}
+
+.js-irs-0 .irs-grid-pol {
+    background: #ffffff;
+}
+
+
+/* ----------------------------------------------------------------- */
+
+
+.js-irs-1 .irs-bar {
+  border-top-color: #39b54a;
+    border-bottom-color: #39b54a;
+} 
+
+.js-irs-1 .irs-bar-edge {
+  border-color: #39b54a;
+}
+
+.js-irs-1 .irs-single, .js-irs-1 .irs-bar-edge, .js-irs-1 .irs-bar {
+  background: #0a0;
+}
+
+.js-irs-1 .irs-grid-text {
+    bottom: 8px;
+    color: #ffffff;
+}
+
+.js-irs-1 .irs-grid-pol.small {
+    height: 4px;
+    background: #ffffff;
+}
+
+.js-irs-1 .irs-grid-pol {
+    background: #ffffff;
+}
+
+/* ----------------------------------------------------------------- */
+
+.js-irs-2 .irs-bar {
+  border-top-color: #39b54a;
+    border-bottom-color: #39b54a;
+} 
+
+.js-irs-2 .irs-bar-edge {
+  border-color: #39b54a;
+}
+
+.js-irs-2 .irs-single, .js-irs-2 .irs-bar-edge, .js-irs-2 .irs-bar {
+  background: #39b54a;
+}
+
+.js-irs-2 .irs-grid-text {
+    bottom: 8px;
+    color: #ffffff;
+}
+
+.js-irs-2 .irs-grid-pol.small {
+    height: 4px;
+    background: #ffffff;
+}
+
+.js-irs-2 .irs-grid-pol {
+    background: #ffffff;
+}
+
